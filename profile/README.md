@@ -1,4 +1,5 @@
-![logo_omega_blanc](https://github.com/user-attachments/assets/3e4f79c9-b982-40e0-9bd4-0f962fdc3269)
+
+![logo oméga blanc mini](https://github.com/user-attachments/assets/5340c1ab-8b83-4400-95cc-037bfe0bae85)
 
 Oméga Studios is a team of 3 developper who aim to make games plugin, mods and so much more...
 
